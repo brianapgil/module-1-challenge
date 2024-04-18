@@ -14,3 +14,5 @@ To interact with Module 1 Challenge you can use the navigation bar or scroll up 
 
 ![alt text](assets/images/screenshot.png)
 
+[Link text](https://brianapgil.github.io/module-1-challenge-Horiseon/)
+
